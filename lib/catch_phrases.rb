@@ -10,6 +10,6 @@ end
 
 def link 
   
-  puts "It's Dangerous "
+  puts "It's Dangerous To Go Aline"
   
 end
