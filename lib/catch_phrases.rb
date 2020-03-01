@@ -10,6 +10,6 @@ end
 
 def link 
   
-  puts "It's Dangerous To Go Alone! Take this"
+  puts "It's Dangerous To Go Alone! Take This."
   
 end
